@@ -1,6 +1,5 @@
 - 🆔 My name is **Turobov Firdavs**
 - ℹ️ I’m interested in **Blogging**
-- ⤴️ I’m currently learning **English** language
 - 📃 I’m working as **Mobile Programmer** at Technologic ASBT
       and as **Director** at SATA-SOFTWARE
       
